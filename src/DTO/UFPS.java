@@ -3,14 +3,14 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package moduloinformaticoufps;
+package DTO;
 
 /**
  *
  * @author RYZEN 5
  */
 public class UFPS {
-    public  String codigo;
+    public  Integer codigo;
     public  String nombre; 
     public  String apellidos;
     public double salario;

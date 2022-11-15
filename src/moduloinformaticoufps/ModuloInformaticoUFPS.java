@@ -5,6 +5,10 @@
  */
 package moduloinformaticoufps;
 
+import DTO.UFPS;
+import DTO.Administrativos;
+import DTO.Estudiantes;
+import DTO.Docentes;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 import javax.swing.JOptionPane;
